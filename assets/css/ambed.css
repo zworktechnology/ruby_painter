@@ -4846,7 +4846,7 @@ ul {
   position: relative;
   display: block;
   background-color: var(--ambed-black, #3c3531);
-  margin-top: -110px;
+  /* margin-top: -110px; */
   z-index: 1;
 }
 
@@ -4865,7 +4865,7 @@ ul {
 .site-footer__top {
   position: relative;
   display: block;
-  padding: 202px 0 91px;
+  padding: 100px 0 91px;
 }
 
 .footer-widget__about {
