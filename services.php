@@ -35,9 +35,8 @@
                                 </div>
                             </div>
                             <div class="services-one__content">
-                                <h3 class="services-one__title"><a href="room-wallpapers.html">Room Wallpapers</a></h3>
-                                <p class="services-one__text">Morbi feugiat porta purus, at eleifend dolor posuere ac.
-                                </p>
+                                <h3 class="services-one__title"><a href="room-wallpapers.html">Interior Painting</a></h3>
+                                <p class="services-one__text">Infuse Life into Your Walls with Striking Room Wallpapers, Elevating Your Living Space.</p>
                             </div>
                         </div>
                     </div>
@@ -51,9 +50,8 @@
                                 </div>
                             </div>
                             <div class="services-one__content">
-                                <h3 class="services-one__title"><a href="wall-sheets.html">Wall Sheets</a></h3>
-                                <p class="services-one__text">Morbi feugiat porta purus, at eleifend dolor posuere ac.
-                                </p>
+                                <h3 class="services-one__title"><a href="wall-sheets.html">Wood Works</a></h3>
+                                <p class="services-one__text">Explore Endless Possibilities with Wall Sheets, Adding Texture and Depth to Your Interior Design.</p>
                             </div>
                         </div>
                     </div>
@@ -67,9 +65,8 @@
                                 </div>
                             </div>
                             <div class="services-one__content">
-                                <h3 class="services-one__title"><a href="wall-painting.html">Wall Painting</a></h3>
-                                <p class="services-one__text">Morbi feugiat porta purus, at eleifend dolor posuere ac.
-                                </p>
+                                <h3 class="services-one__title"><a href="wall-painting.html">Wooden Polish</a></h3>
+                                <p class="services-one__text">Experience the Power of Wall Painting, Adding Vibrant Colors and Personality to Your Home.</p>
                             </div>
                         </div>
                     </div>
@@ -83,10 +80,9 @@
                                 </div>
                             </div>
                             <div class="services-one__content">
-                                <h3 class="services-one__title"><a href="interior-designing.html">Interior Designing</a>
+                                <h3 class="services-one__title"><a href="interior-designing.html">Italian Designs <span class="opacity-0"> ricsder erer or turere rr</span> </a>
                                 </h3>
-                                <p class="services-one__text">Morbi feugiat porta purus, at eleifend dolor posuere ac.
-                                </p>
+                                <p class="services-one__text">Transform Your Space into a Reflection of Your Style and Personality.</p>
                             </div>
                         </div>
                     </div>
@@ -100,9 +96,8 @@
                                 </div>
                             </div>
                             <div class="services-one__content">
-                                <h3 class="services-one__title"><a href="pvc-panels.html">PVC Panels</a></h3>
-                                <p class="services-one__text">Morbi feugiat porta purus, at eleifend dolor posuere ac.
-                                </p>
+                                <h3 class="services-one__title"><a href="pvc-panels.html">Interior Wall Decorative Painting</a></h3>
+                                <p class="services-one__text">Enhance Your Interior with PVC Panels, Bringing a Contemporary Touch to Any Space.</p>
                             </div>
                         </div>
                     </div>
@@ -116,9 +111,23 @@
                                 </div>
                             </div>
                             <div class="services-one__content">
-                                <h3 class="services-one__title"><a href="outdoor-design.html">Outdoor Designs</a></h3>
-                                <p class="services-one__text">Morbi feugiat porta purus, at eleifend dolor posuere ac.
-                                </p>
+                                <h3 class="services-one__title"><a href="outdoor-design.html">Exterior Bubble Texture <span class="opacity-0">turere rr</span> </a></h3>
+                                <p class="services-one__text">Create Stunning Outdoor Spaces that Blend Beauty, Functionality, and Serenity.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <!--Services One Single-->
+                        <div class="services-one__single wow fadeInUp" data-wow-delay="600ms">
+                            <div class="services-one__img">
+                                <img src="assets/images/services/services-1-6.jpg" alt="">
+                                <div class="services-one__icon">
+                                    <span class="icon-terrace"></span>
+                                </div>
+                            </div>
+                            <div class="services-one__content">
+                                <h3 class="services-one__title"><a href="outdoor-design.html">Grill Works</a></h3>
+                                <p class="services-one__text">Create Stunning Outdoor Spaces that Blend Beauty, Functionality, and Serenity.</p>
                             </div>
                         </div>
                     </div>

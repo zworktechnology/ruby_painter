@@ -37,8 +37,7 @@
                                             <div class="main-slider__border-left"></div>
                                             <div class="main-slider__border-right"></div>
                                         </div>
-                                        <h2 class="main-slider__title">Quality <br> Wallpapers <span>&</span> <br>
-                                            Painting For Home</h2>
+                                        <h2 class="main-slider__title">Unique Painting <span>&</span> <br/> Wallpapers for Home </h2>
                                         <div class="main-slider__btn-box">
                                             <a href="about.html" class="thm-btn main-slider__btn">Discover More</a>
                                         </div>
@@ -62,8 +61,7 @@
                                             <div class="main-slider__border-left"></div>
                                             <div class="main-slider__border-right"></div>
                                         </div>
-                                        <h2 class="main-slider__title">Quality <br> Wallpapers <span>&</span> <br>
-                                            Painting For Home</h2>
+                                        <h2 class="main-slider__title">Not Just a Painting,<br />its a Life Style</h2>
                                         <div class="main-slider__btn-box">
                                             <a href="about.html" class="thm-btn main-slider__btn">Discover More</a>
                                         </div>
@@ -87,8 +85,7 @@
                                             <div class="main-slider__border-left"></div>
                                             <div class="main-slider__border-right"></div>
                                         </div>
-                                        <h2 class="main-slider__title">Quality <br> Wallpapers <span>&</span> <br>
-                                            Painting For Home</h2>
+                                        <h2 class="main-slider__title">Special Paintings for<br /> a Spacial Life Style</h2>
                                         <div class="main-slider__btn-box">
                                             <a href="about.html" class="thm-btn main-slider__btn">Discover More</a>
                                         </div>
@@ -125,11 +122,10 @@
                         <div class="about-one__left">
                             <div class="section-title text-left">
                                 <span class="section-title__tagline">About company</span>
-                                <h2 class="section-title__title">We’re Providing Quality Wall Designs</h2>
+                                <h2 class="section-title__title">Transform Your Space with Artistry and Elegance</h2>
                                 <div class="section-title__line"></div>
                             </div>
-                            <p class="about-one__text-1">We have 30+ years of experiences for give you better quality
-                                results.</p>
+                            <p class="about-one__text-1">we have 10+ years Experience in Changing Peoples Life style,</p>
                             <ul class="list-unstyled about-one__points">
                                 <li>
                                     <div class="about-one__points-content-box">
@@ -152,9 +148,7 @@
                                     </div>
                                 </li>
                             </ul>
-                            <p class="about-one__text-2">Lorem ipsum dolor sit amet, consectetur notted adipisicing elit
-                                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua lonm andhn. Aenean
-                                tincidunt id mauris id auctor donec at ligula lacus.</p>
+                            <p class="about-one__text-2">we specialize in curating a stunning collection of unique and high-quality paintings for your home. With our passion for creativity and personalized service, we also offer custom-made artworks that reflect your individual style, making your living space truly exceptional.</p>
                             <div class="about-one__contact-us">
                                 <div class="about-one__btn-box">
                                     <a href="about.html" class="thm-btn about-one__btn">Read More About</a>
@@ -218,8 +212,7 @@
                                 <span class="icon-mind"></span>
                             </div>
                             <h3 class="feature-one__title"><a href="about.html">Smart Work</a></h3>
-                            <p class="feature-one__text">There are many of pass of lorem ipsum available, but the
-                                majority.</p>
+                            <p class="feature-one__text">Unleashing Creativity, Exceeding Expectations, and Elevating Homes with Distinctive Artistry.</p>
                             <div class="feature-one__arrow">
                                 <a href="about.html"><i class="fa fa-arrow-right"></i></a>
                             </div>
@@ -238,8 +231,7 @@
                                 <span class="icon-wallpaper-2"></span>
                             </div>
                             <h3 class="feature-one__title"><a href="about.html">Unique Designs</a></h3>
-                            <p class="feature-one__text">There are many of pass of lorem ipsum available, but the
-                                majority.</p>
+                            <p class="feature-one__text">Transforming Spaces with Unparalleled Artistic Vision, Tailored to Your Personal Style.</p>
                             <div class="feature-one__arrow">
                                 <a href="about.html"><i class="fa fa-arrow-right"></i></a>
                             </div>
@@ -258,8 +250,7 @@
                                 <span class="icon-programmer"></span>
                             </div>
                             <h3 class="feature-one__title"><a href="team.html">Skilled Team</a></h3>
-                            <p class="feature-one__text">There are many of pass of lorem ipsum available, but the
-                                majority.</p>
+                            <p class="feature-one__text">Masterful Artists, Collaborating to Create Breathtaking Works of Art for Your Home.</p>
                             <div class="feature-one__arrow">
                                 <a href="team.html"><i class="fa fa-arrow-right"></i></a>
                             </div>
@@ -278,8 +269,7 @@
                                 <span class="icon-best-price"></span>
                             </div>
                             <h3 class="feature-one__title"><a href="contact.html">Best Pricing</a></h3>
-                            <p class="feature-one__text">There are many of pass of lorem ipsum available, but the
-                                majority.</p>
+                            <p class="feature-one__text">Unbeatable Value, Bringing Affordable Beauty and Elegance to Every Home. <span class="opacity-0">elegance to every home</span></p>
                             <div class="feature-one__arrow">
                                 <a href="contact.html"><i class="fa fa-arrow-right"></i></a>
                             </div>
@@ -293,7 +283,7 @@
         <!--Services One Start-->
         <section class="services-one">
             <div class="services-one-bg-box">
-                <div class="services-one-bg jarallax" data-jarallax="" data-speed="0.2" data-imgposition="50% 0%" style="background-image: url(assets/images/backgrounds/services-one-bg.jpg);"></div>
+                <div class="services-one-bg jarallax" data-jarallax="" data-speed="0.2" data-imgposition="50% 0%" style="background-image: url(https://images.unsplash.com/photo-1515405295579-ba7b45403062?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80);"></div>
             </div>
             <div class="container">
                 <div class="section-title text-center">
@@ -313,8 +303,7 @@
                             </div>
                             <div class="services-one__content">
                                 <h3 class="services-one__title"><a href="room-wallpapers.html">Room Wallpapers</a></h3>
-                                <p class="services-one__text">Morbi feugiat porta purus, at eleifend dolor posuere ac.
-                                </p>
+                                <p class="services-one__text">Infuse Life into Your Walls with Striking Room Wallpapers, Elevating Your Living Space.</p>
                             </div>
                         </div>
                     </div>
@@ -329,8 +318,7 @@
                             </div>
                             <div class="services-one__content">
                                 <h3 class="services-one__title"><a href="wall-sheets.html">Wall Sheets</a></h3>
-                                <p class="services-one__text">Morbi feugiat porta purus, at eleifend dolor posuere ac.
-                                </p>
+                                <p class="services-one__text">Explore Endless Possibilities with Wall Sheets, Adding Texture and Depth to Your Interior Design.</p>
                             </div>
                         </div>
                     </div>
@@ -345,8 +333,7 @@
                             </div>
                             <div class="services-one__content">
                                 <h3 class="services-one__title"><a href="wall-painting.html">Wall Painting</a></h3>
-                                <p class="services-one__text">Morbi feugiat porta purus, at eleifend dolor posuere ac.
-                                </p>
+                                <p class="services-one__text">Experience the Power of Wall Painting, Adding Vibrant Colors and Personality to Your Home.</p>
                             </div>
                         </div>
                     </div>
@@ -360,7 +347,7 @@
             <div class="container">
                 <div class="section-title text-center">
                     <span class="section-title__tagline">Successful Project</span>
-                    <h2 class="section-title__title">Keep your Eye on Our <br> Latest Projects</h2>
+                    <h2 class="section-title__title">See How We change <br>Peoples Lifestyle</h2>
                     <div class="section-title__line"></div>
                 </div>
                 <div class="project-one__inner">
@@ -582,15 +569,14 @@
                                     <div class="testimonial-one__quote">
                                         <span class="icon-quotation"></span>
                                     </div>
-                                    <p class="testimonial-one__text-2">Lorem ipsum dolor sit amet elit, sed do eiusmod
-                                        tempor to incidut labore et dolore magna for aliqua. Quis ipsum suspendisse.</p>
+                                    <p class="testimonial-one__text-2">I absolutely love the custom painting I received from Ruby Painting. They captured my vision perfectly and transformed my space into a true work of art. Their attention to detail and exceptional service exceeded my expectations.</p>
                                     <div class="testimonial-one__client-info">
-                                        <div class="testimonial-one__img">
+                                        <!-- <div class="testimonial-one__img">
                                             <img src="assets/images/testimonial/testimonial-1-1.jpg" alt="">
-                                        </div>
+                                        </div> -->
                                         <div class="testimonial-one__client-content">
-                                            <h4 class="testimonial-one__client-name">John Smith</h4>
-                                            <p class="testimonial-one__client-title">Our Customer</p>
+                                            <h4 class="testimonial-one__client-name">E.R. Subramani</h4>
+                                            <p class="testimonial-one__client-title">RED.JE,TNEB</p>
                                         </div>
                                     </div>
                                 </div>
@@ -599,15 +585,14 @@
                                     <div class="testimonial-one__quote">
                                         <span class="icon-quotation"></span>
                                     </div>
-                                    <p class="testimonial-one__text-2">Lorem ipsum dolor sit amet elit, sed do eiusmod
-                                        tempor to incidut labore et dolore magna for aliqua. Quis ipsum suspendisse.</p>
+                                    <p class="testimonial-one__text-2">The room wallpapers I purchased from Ruby Painting were exceptional in quality and design. They completely transformed my room, adding a touch of elegance and personality. I highly recommend their products to anyone looking for a stunning wall makeover</p>
                                     <div class="testimonial-one__client-info">
-                                        <div class="testimonial-one__img">
+                                        <!-- <div class="testimonial-one__img">
                                             <img src="assets/images/testimonial/testimonial-1-2.jpg" alt="">
-                                        </div>
+                                        </div> -->
                                         <div class="testimonial-one__client-content">
-                                            <h4 class="testimonial-one__client-name">Sarah Albert</h4>
-                                            <p class="testimonial-one__client-title">Our Customer</p>
+                                            <h4 class="testimonial-one__client-name">Mr.G.Balakrishnan</h4>
+                                            <p class="testimonial-one__client-title">Vice - Principal, St.Joseph's College</p>
                                         </div>
                                     </div>
                                 </div>
@@ -616,15 +601,14 @@
                                     <div class="testimonial-one__quote">
                                         <span class="icon-quotation"></span>
                                     </div>
-                                    <p class="testimonial-one__text-2">Lorem ipsum dolor sit amet elit, sed do eiusmod
-                                        tempor to incidut labore et dolore magna for aliqua. Quis ipsum suspendisse.</p>
+                                    <p class="testimonial-one__text-2">Wall Sheets from Ruby Painting have been a game-changer for my interior design projects. The variety of patterns and textures available allowed me to create unique and eye-catching feature walls. The ease of installation and the durability of the sheets were impressive. A definite must-have for any designer.</p>
                                     <div class="testimonial-one__client-info">
-                                        <div class="testimonial-one__img">
+                                        <!-- <div class="testimonial-one__img">
                                             <img src="assets/images/testimonial/testimonial-1-3.jpg" alt="">
-                                        </div>
+                                        </div> -->
                                         <div class="testimonial-one__client-content">
-                                            <h4 class="testimonial-one__client-name">Kevin Martin</h4>
-                                            <p class="testimonial-one__client-title">Our Customer</p>
+                                            <h4 class="testimonial-one__client-name">Mr.Kmirudheel</h4>
+                                            <p class="testimonial-one__client-title">Union steels, Amman Steels Distributor</p>
                                         </div>
                                     </div>
                                 </div>
@@ -633,14 +617,13 @@
                                     <div class="testimonial-one__quote">
                                         <span class="icon-quotation"></span>
                                     </div>
-                                    <p class="testimonial-one__text-2">Lorem ipsum dolor sit amet elit, sed do eiusmod
-                                        tempor to incidut labore et dolore magna for aliqua. Quis ipsum suspendisse.</p>
+                                    <p class="testimonial-one__text-2">The wall paintings I commissioned from Ruby Painting added a breathtaking focal point to my living room. The talented artists captured the essence of my vision and brought it to life with their exceptional skills. The end result was beyond my expectations, and I couldn't be happier with the outcome.</p>
                                     <div class="testimonial-one__client-info">
-                                        <div class="testimonial-one__img">
+                                        <!-- <div class="testimonial-one__img">
                                             <img src="assets/images/testimonial/testimonial-1-1.jpg" alt="">
-                                        </div>
+                                        </div> -->
                                         <div class="testimonial-one__client-content">
-                                            <h4 class="testimonial-one__client-name">John Smith</h4>
+                                            <h4 class="testimonial-one__client-name">bosco</h4>
                                             <p class="testimonial-one__client-title">Our Customer</p>
                                         </div>
                                     </div>
@@ -650,82 +633,13 @@
                                     <div class="testimonial-one__quote">
                                         <span class="icon-quotation"></span>
                                     </div>
-                                    <p class="testimonial-one__text-2">Lorem ipsum dolor sit amet elit, sed do eiusmod
-                                        tempor to incidut labore et dolore magna for aliqua. Quis ipsum suspendisse.</p>
+                                    <p class="testimonial-one__text-2">Ruby Painting offers a seamless and enjoyable experience. From their friendly customer service to the competitive pricing, they truly deliver on their promise of quality and satisfaction. I am thrilled with my purchase and will definitely be a returning customer for all my future wall decor needs.</p>
                                     <div class="testimonial-one__client-info">
-                                        <div class="testimonial-one__img">
+                                        <!-- <div class="testimonial-one__img">
                                             <img src="assets/images/testimonial/testimonial-1-2.jpg" alt="">
-                                        </div>
+                                        </div> -->
                                         <div class="testimonial-one__client-content">
-                                            <h4 class="testimonial-one__client-name">Sarah Albert</h4>
-                                            <p class="testimonial-one__client-title">Our Customer</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--Testimonial One Single-->
-                                <div class="testimonial-one__single">
-                                    <div class="testimonial-one__quote">
-                                        <span class="icon-quotation"></span>
-                                    </div>
-                                    <p class="testimonial-one__text-2">Lorem ipsum dolor sit amet elit, sed do eiusmod
-                                        tempor to incidut labore et dolore magna for aliqua. Quis ipsum suspendisse.</p>
-                                    <div class="testimonial-one__client-info">
-                                        <div class="testimonial-one__img">
-                                            <img src="assets/images/testimonial/testimonial-1-3.jpg" alt="">
-                                        </div>
-                                        <div class="testimonial-one__client-content">
-                                            <h4 class="testimonial-one__client-name">Kevin Martin</h4>
-                                            <p class="testimonial-one__client-title">Our Customer</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--Testimonial One Single-->
-                                <div class="testimonial-one__single">
-                                    <div class="testimonial-one__quote">
-                                        <span class="icon-quotation"></span>
-                                    </div>
-                                    <p class="testimonial-one__text-2">Lorem ipsum dolor sit amet elit, sed do eiusmod
-                                        tempor to incidut labore et dolore magna for aliqua. Quis ipsum suspendisse.</p>
-                                    <div class="testimonial-one__client-info">
-                                        <div class="testimonial-one__img">
-                                            <img src="assets/images/testimonial/testimonial-1-1.jpg" alt="">
-                                        </div>
-                                        <div class="testimonial-one__client-content">
-                                            <h4 class="testimonial-one__client-name">John Smith</h4>
-                                            <p class="testimonial-one__client-title">Our Customer</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--Testimonial One Single-->
-                                <div class="testimonial-one__single">
-                                    <div class="testimonial-one__quote">
-                                        <span class="icon-quotation"></span>
-                                    </div>
-                                    <p class="testimonial-one__text-2">Lorem ipsum dolor sit amet elit, sed do eiusmod
-                                        tempor to incidut labore et dolore magna for aliqua. Quis ipsum suspendisse.</p>
-                                    <div class="testimonial-one__client-info">
-                                        <div class="testimonial-one__img">
-                                            <img src="assets/images/testimonial/testimonial-1-2.jpg" alt="">
-                                        </div>
-                                        <div class="testimonial-one__client-content">
-                                            <h4 class="testimonial-one__client-name">Sarah Albert</h4>
-                                            <p class="testimonial-one__client-title">Our Customer</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--Testimonial One Single-->
-                                <div class="testimonial-one__single">
-                                    <div class="testimonial-one__quote">
-                                        <span class="icon-quotation"></span>
-                                    </div>
-                                    <p class="testimonial-one__text-2">Lorem ipsum dolor sit amet elit, sed do eiusmod
-                                        tempor to incidut labore et dolore magna for aliqua. Quis ipsum suspendisse.</p>
-                                    <div class="testimonial-one__client-info">
-                                        <div class="testimonial-one__img">
-                                            <img src="assets/images/testimonial/testimonial-1-3.jpg" alt="">
-                                        </div>
-                                        <div class="testimonial-one__client-content">
-                                            <h4 class="testimonial-one__client-name">Kevin Martin</h4>
+                                            <h4 class="testimonial-one__client-name">Albert</h4>
                                             <p class="testimonial-one__client-title">Our Customer</p>
                                         </div>
                                     </div>

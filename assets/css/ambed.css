@@ -3246,9 +3246,6 @@ ul {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  background-color: var(--ambed-black, #3c3531);
-  mix-blend-mode: luminosity;
-  opacity: .08;
   z-index: 1;
 }
 
@@ -12955,4 +12952,7 @@ body.boxed-wrapper {
   color: var(--ambed-gray);
   font-weight: 400;
   padding-left: 33px;
+}
+.opacity-0 {
+  opacity: 0;
 }

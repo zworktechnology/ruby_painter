@@ -58,7 +58,7 @@
                                         </div>
                                         <div class="text">
                                             <h5>Call anytime</h5>
-                                            <p><a href="tel:980009630">+ 98 (000) - 9630</a></p>
+                                            <p><a href="tel:980009630">+ 91 9842869957</a></p>
                                         </div>
                                     </li>
                                     <li>
@@ -67,7 +67,7 @@
                                         </div>
                                         <div class="text">
                                             <h5>Send email</h5>
-                                            <p><a href="mailto:ambed@company.com">ambed@company.com</a></p>
+                                            <p><a href="mailto:ambed@company.com">info@rubypainters.com</a></p>
                                         </div>
                                     </li>
                                     <li>
@@ -75,8 +75,8 @@
                                             <span class="icon-location"></span>
                                         </div>
                                         <div class="text">
-                                            <h5>380 St Kilda Road</h5>
-                                            <p>Melbourne, Australia</p>
+                                            <h5>Ruby Painters</h5>
+                                            <p>No. 16, CSI Good News Complex, Puthur Main Road, Trichy - 620017</p>
                                         </div>
                                     </li>
                                 </ul>
@@ -90,7 +90,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="site-footer__bottom-inner">
-                                <p class="site-footer__bottom-text">© Copyright <script></script> by <a href="#">Ambed Template</a>
+                                <p class="site-footer__bottom-text">© Copyright <script></script> by <a href="zworktechnology.com" target="_blank">Zworktechnology</a>
                                 </p>
                             </div>
                         </div>

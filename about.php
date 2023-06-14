@@ -29,13 +29,11 @@
                         <div class="about-two__left">
                             <div class="section-title text-left">
                                 <span class="section-title__tagline">get to know us</span>
-                                <h2 class="section-title__title">We Make Difference in Your Homes</h2>
+                                <h2 class="section-title__title">Transform Your Space with Artistry and Elegance</h2>
                                 <div class="section-title__line"></div>
                             </div>
-                            <p class="about-two__text-1">We have 30+ years of experiences for give
-                                you better quality results.</p>
-                            <p class="about-two__text-2">Lorem ipsum dolor sit amet, consectetur notted adipisicing elit
-                                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua lonm andhn.</p>
+                            <p class="about-two__text-1">we have 10+ years Experience in Changing Peoples Life style,</p>
+                            <p class="about-two__text-2 text-justify">we specialize in curating a stunning collection of unique and high-quality paintings for your home. With our passion for creativity and personalized service, we also offer custom-made artworks that reflect your individual style, making your living space truly exceptional.</p>
                             <div class="about-two__points-box">
                                 <div class="about-two__points-left">
                                     <ul class="list-unstyled about-two__points">

@@ -79,15 +79,15 @@
                                 <ul class="list-unstyled contact-page__details-list">
                                     <li>
                                         <span>Call anytime</span>
-                                        <p><a href="tel:980009630">+ 98 (000) - 9630</a></p>
+                                        <p><a href="tel:980009630">+ 91 9842869957</a></p>
                                     </li>
                                     <li>
                                         <span>Send email</span>
-                                        <p><a href="mailto:ambed@company.com">ambed@company.com</a></p>
+                                        <p><a href="mailto:ambed@company.com">info@rubypainters.com</a></p>
                                     </li>
                                     <li>
                                         <span>Visit Office</span>
-                                        <p>380 St Kilda Golden Road Melbourne, Australia</p>
+                                        <p>No. 16, CSI Good News Complex, Puthur Main Road, Trichy - 620017</p>
                                     </li>
                                 </ul>
                                 <div class="contact-page__social">
