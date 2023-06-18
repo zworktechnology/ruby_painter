@@ -2926,6 +2926,7 @@ ul {
   width: auto;
   border-bottom-left-radius: 75px;
   border-top-right-radius: 75px;
+  height: 300px;
 }
 
 .about-one__project {
@@ -4264,7 +4265,7 @@ ul {
   background-size: cover;
   background-position: center;
   background-color: var(--ambed-black, #3c3531);
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
   opacity: .3;
   z-index: -1;
 }

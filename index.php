@@ -23,7 +23,7 @@
                 <div class="swiper-wrapper">
 
                     <div class="swiper-slide">
-                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-1-1.jpg);"></div>
+                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-bg-1.jpg);"></div>
                         <!-- /.image-layer -->
                         <div class="container">
                             <div class="row">
@@ -47,7 +47,7 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-1-2.jpg);"></div>
+                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-bg-2.jpg);"></div>
                         <!-- /.image-layer -->
                         <div class="container">
                             <div class="row">
@@ -71,7 +71,7 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-1-3.jpg);"></div>
+                        <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-bg-3.jpg);"></div>
                         <!-- /.image-layer -->
                         <div class="container">
                             <div class="row">
@@ -523,7 +523,7 @@
         <!--Testimonial One Start-->
         <section class="testimonial-one">
             <div class="testimonial-one-bg-box">
-                <div class="testimonial-one-bg jarallax" data-jarallax="" data-speed="0.2" data-imgposition="50% 0%" style="background-image: url(assets/images/backgrounds/testimonial-one-bg.jpg);"></div>
+                <div class="testimonial-one-bg jarallax" data-jarallax="" data-speed="0.2" data-imgposition="50% 0%" style="background-image: url(https://banyanbridges.com/wp-content/uploads/2018/02/how-to-paint-a-Bold-striped-accent-wall-Banyan-Bridges-02-1080x675.jpg);"></div>
             </div>
             <div class="container">
                 <div class="row">

@@ -67,7 +67,7 @@
                         </div>
                     </div>
                     <div class="col-xl-7">
-                        <div class="about-two__right">
+                        <div class="d-none about-two__right">
                             <div class="about-two__img-box wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
                                 <div class="about-two__img-1">
                                     <img src="assets/images/resources/about-two-img-1.jpg" alt="">
@@ -77,6 +77,29 @@
                                 </div>
                                 <div class="about-two__dot">
                                     <img src="assets/images/shapes/about-two-dots.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="about-one__right">
+                            <div class="about-one__img-box wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
+                                <div class="about-one__img">
+                                    <img src="assets/images/resources/about-one-img-1.jpg" alt="">
+                                </div>
+                                <div class="about-one__small-img">
+                                    <img src="assets/images/resources/about-one-small-img.jpg" alt="">
+                                </div>
+                                <div class="about-one__project">
+                                    <div class="about-one__project-icon">
+                                        <span class="icon-wallpaper-1"></span>
+                                    </div>
+                                    <div class="about-one__project-content">
+                                        <h3 class="odometer" data-count="3690">00</h3>
+                                        <p class="about-one__project-text">Successful Project</p>
+                                    </div>
+                                </div>
+                                <div class="about-one__shape-1 float-bob-y"></div>
+                                <div class="about-one__dot">
+                                    <img src="assets/images/shapes/about-one-dots.png" alt="">
                                 </div>
                             </div>
                         </div>

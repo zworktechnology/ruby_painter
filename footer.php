@@ -1,6 +1,6 @@
         <!--Site Footer Start-->
         <footer class="site-footer">
-            <div class="site-footer-bg" style="background-image: url(assets/images/backgrounds/site-footer-bg.jpg);">
+            <div class="site-footer-bg" style="background-image: linear-gradient(to right, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('https://www.homelane.com/blog/wp-content/uploads/2022/10/yellow-stripes-wall-paint.jpg');">
             </div>
             <div class="site-footer__top">
                 <div class="container">
