@@ -29,7 +29,7 @@
                         <!--Services One Single-->
                         <div class="services-one__single wow fadeInUp" data-wow-delay="100ms">
                             <div class="services-one__img">
-                                <img src="assets/images/services/services-1-1.jpg" alt="">
+                                <img src="assets/images/services/new-services/interior-design.jpg" alt="">
                                 <div class="services-one__icon">
                                     <span class="icon-wallpaper-3"></span>
                                 </div>
@@ -44,7 +44,7 @@
                         <!--Services One Single-->
                         <div class="services-one__single wow fadeInUp" data-wow-delay="200ms">
                             <div class="services-one__img">
-                                <img src="assets/images/services/services-1-2.jpg" alt="">
+                                <img src="assets/images/services/new-services/wood-works.jpg" alt="">
                                 <div class="services-one__icon">
                                     <span class="icon-wallpaper-4"></span>
                                 </div>
@@ -59,7 +59,7 @@
                         <!--Services One Single-->
                         <div class="services-one__single wow fadeInUp" data-wow-delay="300ms">
                             <div class="services-one__img">
-                                <img src="assets/images/services/services-1-3.jpg" alt="">
+                                <img src="assets/images/services/new-services/wooden-polish-2.jpg" alt="">
                                 <div class="services-one__icon">
                                     <span class="icon-paint"></span>
                                 </div>
@@ -82,7 +82,7 @@
                             <div class="services-one__content">
                                 <h3 class="services-one__title"><a href="interior-designing.html">Italian Designs <span class="opacity-0"> ricsder erer or turere rr</span> </a>
                                 </h3>
-                                <p class="services-one__text">Transform Your Space into a Reflection of Your Style and Personality.</p>
+                                <p class="services-one__text">Transform Your Space into a Reflection of Your Style and Personality. <span class="opacity-0">transform your style personality</span></p>
                             </div>
                         </div>
                     </div>
@@ -105,7 +105,7 @@
                         <!--Services One Single-->
                         <div class="services-one__single wow fadeInUp" data-wow-delay="600ms">
                             <div class="services-one__img">
-                                <img src="assets/images/services/services-1-6.jpg" alt="">
+                                <img src="assets/images/services/new-services/bubble-texture-painting.jpg" alt="">
                                 <div class="services-one__icon">
                                     <span class="icon-terrace"></span>
                                 </div>
@@ -120,7 +120,7 @@
                         <!--Services One Single-->
                         <div class="services-one__single wow fadeInUp" data-wow-delay="600ms">
                             <div class="services-one__img">
-                                <img src="assets/images/services/services-1-6.jpg" alt="">
+                                <img src="assets/images/services/new-services/grill-works.jpg" alt="">
                                 <div class="services-one__icon">
                                     <span class="icon-terrace"></span>
                                 </div>
