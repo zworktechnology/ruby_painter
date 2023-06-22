@@ -83,7 +83,7 @@
                                             </div>
                                             <div class="content">
                                                 <p>Call anytime</p>
-                                                <h5><a href="tel:980009630">+ 98 (000) - 9630</a></h5>
+                                                <h5><a href="tel:980009630">+91 9842869957</a></h5>
                                             </div>
                                         </li>
                                         <li>
@@ -92,7 +92,7 @@
                                             </div>
                                             <div class="content">
                                                 <p>Send email</p>
-                                                <h5><a href="mailto:ambed@company.com">ambed@company.com</a></h5>
+                                                <h5><a href="mailto:ambed@company.com">info@rubypainters.com</a></h5>
                                             </div>
                                         </li>
                                         <li>
@@ -100,8 +100,8 @@
                                                 <span class="icon-location"></span>
                                             </div>
                                             <div class="content">
-                                                <p>380 St Kilda Road</p>
-                                                <h5>Melbourne, Australia</h5>
+                                                <p>NO: 16, CSI GOOD NEWS COMPLEX,</p>
+                                                <h5>PUTHUR MAIN ROAD, TRICHY -620017    </h5>
                                             </div>
                                         </li>
                                     </ul>

@@ -32,7 +32,7 @@
                                 <h2 class="section-title__title">Transform Your Space with Artistry and Elegance</h2>
                                 <div class="section-title__line"></div>
                             </div>
-                            <p class="about-two__text-1">we have 10+ years Experience in Changing Peoples Life style,</p>
+                            <p class="about-two__text-1">we have 25+ years Experience in Changing Peoples Life style,</p>
                             <p class="about-two__text-2 text-justify">we specialize in curating a stunning collection of unique and high-quality paintings for your home. With our passion for creativity and personalized service, we also offer custom-made artworks that reflect your individual style, making your living space truly exceptional.</p>
                             <div class="about-two__points-box">
                                 <div class="about-two__points-left">
@@ -46,8 +46,7 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <p class="about-two__points-text">Lorem ipsum dolor sit ame ed <br> consectetur nod.
-                                    </p>
+                                    <!-- <p class="about-two__points-text">Lorem ipsum dolor sit ame ed <br> consectetur nod.</p> -->
                                 </div>
                                 <div class="about-two__points-right">
                                     <ul class="list-unstyled about-two__points">
@@ -60,8 +59,7 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <p class="about-two__points-text">Lorem ipsum dolor sit ame ed <br> consectetur nod.
-                                    </p>
+                                    <!-- <p class="about-two__points-text">Lorem ipsum dolor sit ame ed <br> consectetur nod.</p> -->
                                 </div>
                             </div>
                         </div>

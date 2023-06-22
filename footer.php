@@ -15,9 +15,7 @@
                                         creating new ones in advertising sector.</p>
                                 </div>
                                 <div class="site-footer__social">
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
                                     <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
                                     <a href="#"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
@@ -28,10 +26,8 @@
                                 <ul class="footer-widget__explore-list list-unstyled clearfix">
                                     <li><a href="about.html">About</a></li>
                                     <li><a href="contact.html">Contact</a></li>
-                                    <li><a href="team.html">Our Team</a></li>
+                                    <li><a href="team.html">Our Projects</a></li>
                                     <li><a href="services.html">Our Services</a></li>
-                                    <li><a href="projects.html">Latest Projects</a></li>
-                                    <li><a href="contact.html">Pricing & Plans</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -39,12 +35,12 @@
                             <div class="footer-widget__column footer-widget__services clearfix">
                                 <h3 class="footer-widget__title">Services</h3>
                                 <ul class="footer-widget__services-list list-unstyled clearfix">
-                                    <li><a href="room-wallpapers.html">Room Wallpaper</a></li>
-                                    <li><a href="wall-painting.html">Wall Painting</a></li>
-                                    <li><a href="wall-sheets.html">Wall Sheets</a></li>
-                                    <li><a href="outdoor-design.html">Outdoor Designs</a></li>
-                                    <li><a href="pvc-panels.html">PVC Panels</a></li>
-                                    <li><a href="interior-designing.html">Interior Design</a></li>
+                                    <li><a href="services.php">Interior Painting</a></li>
+                                    <li><a href="services.php">Wood Works</a></li>
+                                    <li><a href="services.php">Wooden Polish</a></li>
+                                    <li><a href="services.php">Italian Designs</a></li>
+                                    <li><a href="services.php">Exterior Bubble Texture</a></li>
+                                    <li><a href="services.php">Grill Works</a></li>
                                 </ul>
                             </div>
                         </div>
