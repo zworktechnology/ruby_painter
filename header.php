@@ -107,9 +107,7 @@
                                     </ul>
                                 </div>
                                 <div class="main-header__top-right-social">
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
                                     <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
                                     <a href="#"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
@@ -127,7 +125,7 @@
                                     <ul class="main-menu__list">
                                         <li><a href="index.php">Home</a></li>
                                         <li><a href="about.php">About Us </a></li>
-                                        <li><a href="projects.php">Projects </a></li>
+                                        <!-- <li><a href="projects.php">Projects </a></li> -->
                                         <li><a href="services.php">Services</a></li>
                                         <li><a href="contact.php">Contact Us</a>
                                         </li>

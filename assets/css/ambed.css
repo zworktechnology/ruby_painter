@@ -829,8 +829,10 @@ ul {
   visibility: hidden;
   height: 0px;
   width: 12px;
-  border-left: 2px solid #3b3430;
-  border-right: 2px solid #3b3430;
+  /* border-left: 2px solid #3b3430;
+  border-right: 2px solid #3b3430; */
+  border-left: 2px solid #f00;
+  border-right: 2px solid #00ebf7;
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
 }
@@ -842,7 +844,8 @@ ul {
   bottom: 0;
   left: 50%;
   width: 2px;
-  background-color: var(--ambed-base, #a47c68);
+  /* background-color: var(--ambed-base, #a47c68); */
+  background-color: #f50;
   content: "";
   -webkit-transform: translateX(-50%);
   transform: translateX(-50%);
@@ -5131,7 +5134,9 @@ ul {
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
 }
-
+.footer-widget__contact-list li .icon.icon-last {
+  width: 80px !important;
+}
 .footer-widget__contact-list li:hover .icon {
   background-color: var(--ambed-white, #ffffff);
 }

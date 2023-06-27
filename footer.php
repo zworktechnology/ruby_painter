@@ -12,7 +12,7 @@
                                 </div>
                                 <div class="footer-widget__about-text-box">
                                     <p class="footer-widget__about-text">We work with a passion of taking challenges and
-                                        creating new ones in advertising sector.</p>
+                                        creating new ones in Painting sector.</p>
                                 </div>
                                 <div class="site-footer__social">
                                     <a href="#"><i class="fab fa-facebook"></i></a>
@@ -67,7 +67,7 @@
                                         </div>
                                     </li>
                                     <li>
-                                        <div class="icon">
+                                        <div class="icon icon-last">
                                             <span class="icon-location"></span>
                                         </div>
                                         <div class="text">

@@ -23,7 +23,7 @@
         <div class="swiper-wrapper">
 
             <div class="swiper-slide">
-                <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-bg-1.jpg);"></div>
+                <div class="image-layer" style="background-image: url(assets/images/backgrounds/3.jpg);"></div>
                 <!-- /.image-layer -->
                 <div class="container">
                     <div class="row">
@@ -47,7 +47,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-bg-2.jpg);"></div>
+                <div class="image-layer" style="background-image: url(assets/images/backgrounds/6.jpg);"></div>
                 <!-- /.image-layer -->
                 <div class="container">
                     <div class="row">
@@ -71,7 +71,7 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-bg-3.jpg);"></div>
+                <div class="image-layer" style="background-image: url(assets/images/backgrounds/5.jpg);"></div>
                 <!-- /.image-layer -->
                 <div class="container">
                     <div class="row">
@@ -122,7 +122,7 @@
                 <div class="about-one__left">
                     <div class="section-title text-left">
                         <span class="section-title__tagline">About company</span>
-                        <h2 class="section-title__title">Transform Your Space with Artistry and Elegance</h2>
+                        <h2 class="section-title__title">Transform Your Walls with Artistry and Elegance</h2>
                         <div class="section-title__line"></div>
                     </div>
                     <p class="about-one__text-1">we have 25+ years Experience in Changing Peoples Life style,</p>
@@ -148,7 +148,7 @@
                             </div>
                         </li>
                     </ul>
-                    <p class="about-one__text-2">we specialize in curating a stunning collection of unique and high-quality paintings for your home. With our passion for creativity and personalized service, we also offer custom-made artworks that reflect your individual style, making your living space truly exceptional.</p>
+                    <p class="about-one__text-2">Discover the beauty of painting with our curated collection of exquisite artworks. We specialize in unique and high-quality pieces that elevate your space. Experience personalized service as we create custom paintings that reflect your individual style. Transform your home into a captivating masterpiece with our passion for creativity.</p>
                     <div class="about-one__contact-us">
                         <div class="about-one__btn-box">
                             <a href="about.html" class="thm-btn about-one__btn">Read More About</a>
@@ -303,7 +303,8 @@
                     </div>
                     <div class="services-one__content">
                         <h3 class="services-one__title"><a href="room-wallpapers.html">Interior Painting</a></h3>
-                        <p class="services-one__text">Infuse Life into Your Walls with Striking Room Wallpapers, Elevating Your Living Space.</p>
+                        <p class="services-one__text">Refresh Your Space with Professional Interior Painting Services
+                            Turn Your Walls into a Beautiful Canvas with Expert Paintwork</p>
                     </div>
                 </div>
             </div>
@@ -318,7 +319,8 @@
                     </div>
                     <div class="services-one__content">
                         <h3 class="services-one__title"><a href="wall-sheets.html">Wooden Polish</a></h3>
-                        <p class="services-one__text">Explore Endless Possibilities with Wall Sheets, Adding Texture and Depth to Your Interior Design.</p>
+                        <p class="services-one__text">Restore the Beauty of Your Woodwork with Professional Polishing Services
+                            Enhance the Elegance of Your Space with Expert Wooden Polishing</p>
                     </div>
                 </div>
             </div>
@@ -333,7 +335,8 @@
                     </div>
                     <div class="services-one__content">
                         <h3 class="services-one__title"><a href="wall-painting.html">Grill Works</a></h3>
-                        <p class="services-one__text">Experience the Power of Wall Painting, Adding Vibrant Colors and Personality to Your Home.</p>
+                        <p class="services-one__text">Renew the Appeal of Your Grills with Professional Restoration Services
+                            Transform Your Space with Expert Grill Work for Added Style and Elegance</p>
                     </div>
                 </div>
             </div>
@@ -371,10 +374,7 @@
                                             </div>
                                             <div class="project-one__content">
                                                 <h4 class="project-one__title">Interior Design</h4>
-                                                <p class="project-one__text">Quisque sit amet tincidunt enim.
-                                                    Sed dignissim vulputate orci, non lobortis turpis luctus
-                                                    eget. Sed sit amet pharetra felis. Nulla semper velit non
-                                                    tempus sollicitudin.</p>
+                                                <p class="project-one__text">Refresh Your Space with Professional Interior Painting Services Turn Your Walls into a Beautiful Canvas with Expert Paintwork</p>
                                                 <a href="project-details.html" class="thm-btn project-one__btn">Read More About</a>
                                             </div>
                                         </div>
@@ -399,10 +399,7 @@
                                             </div>
                                             <div class="project-one__content">
                                                 <h4 class="project-one__title">Wooden Polish</h4>
-                                                <p class="project-one__text">Quisque sit amet tincidunt enim.
-                                                    Sed dignissim vulputate orci, non lobortis turpis luctus
-                                                    eget. Sed sit amet pharetra felis. Nulla semper velit non
-                                                    tempus sollicitudin.</p>
+                                                <p class="project-one__text">Restore the Beauty of Your Woodwork with Professional Polishing Services Enhance the Elegance of Your Space with Expert Wooden Polishing</p>
                                                 <a href="project-details.html" class="thm-btn project-one__btn">Read More About</a>
                                             </div>
                                         </div>
@@ -427,10 +424,7 @@
                                             </div>
                                             <div class="project-one__content">
                                                 <h4 class="project-one__title">Grill Works</h4>
-                                                <p class="project-one__text">Quisque sit amet tincidunt enim.
-                                                    Sed dignissim vulputate orci, non lobortis turpis luctus
-                                                    eget. Sed sit amet pharetra felis. Nulla semper velit non
-                                                    tempus sollicitudin.</p>
+                                                <p class="project-one__text">Renew the Appeal of Your Grills with Professional Restoration Services Transform Your Space with Expert Grill Work for Added Style and Elegance</p>
                                                 <a href="project-details.html" class="thm-btn project-one__btn">Read More About</a>
                                             </div>
                                         </div>
@@ -455,10 +449,8 @@
                                             </div>
                                             <div class="project-one__content">
                                                 <h4 class="project-one__title">Bubble Texture Painting</h4>
-                                                <p class="project-one__text">Quisque sit amet tincidunt enim.
-                                                    Sed dignissim vulputate orci, non lobortis turpis luctus
-                                                    eget. Sed sit amet pharetra felis. Nulla semper velit non
-                                                    tempus sollicitudin.</p>
+                                                <p class="project-one__text">Create Visual Intrigue with Bubble Texture Painting Services
+Add Unique Dimension to Your Space with Expert Bubble Texture Painting</p>
                                                 <a href="project-details.html" class="thm-btn project-one__btn">Read More About</a>
                                             </div>
                                         </div>
