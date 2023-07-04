@@ -450,7 +450,7 @@
                                             <div class="project-one__content">
                                                 <h4 class="project-one__title">Bubble Texture Painting</h4>
                                                 <p class="project-one__text">Create Visual Intrigue with Bubble Texture Painting Services
-Add Unique Dimension to Your Space with Expert Bubble Texture Painting</p>
+                                                    Add Unique Dimension to Your Space with Expert Bubble Texture Painting</p>
                                                 <a href="project-details.html" class="thm-btn project-one__btn">Read More About</a>
                                             </div>
                                         </div>
