@@ -69,8 +69,8 @@
                     <div class="main-header__top-inner clearfix">
                         <div class="main-header__logo">
                             <a href="index.php">
-                                <img src="assets/images/resources/logo-1.png" alt="" class="dark-logo">
-                                <img src="assets/images/resources/logo-2.png" alt="" class="light-logo">
+                                <img src="assets/images/logo/logo.jpeg" style="height: 85px; border-radius: 5px;" alt="" class="dark-logo">
+                                <img src="assets/images/logo/logo.jpeg" style="height: 85px; border-radius: 5px;" alt="" class="light-logo">
                             </a>
                         </div>
                         <div class="main-header__top-right">
