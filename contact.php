@@ -91,8 +91,8 @@
                                     </li>
                                 </ul>
                                 <div class="contact-page__social">
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.facebook.com/rubypainterstrichy" target="_blank"><i class="fab fa-facebook"></i></a>
+                                    <a href="https://www.instagram.com/ruby_painters/" target="_blank"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>

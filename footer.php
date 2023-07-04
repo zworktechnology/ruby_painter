@@ -1,6 +1,6 @@
         <!--Site Footer Start-->
         <footer class="site-footer">
-            <div class="site-footer-bg" style="background-image: linear-gradient(to right, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('https://www.homelane.com/blog/wp-content/uploads/2022/10/yellow-stripes-wall-paint.jpg');">
+            <div class="site-footer-bg" style="background-image: linear-gradient(to right, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('https://img.freepik.com/premium-vector/painter-man-painting-house-wall-with-roller-brush-worker-guy-using-paintroller-paint-cans_625536-156.jpg?w=2000');">
             </div>
             <div class="site-footer__top">
                 <div class="container">
@@ -15,8 +15,8 @@
                                         creating new ones in Painting sector.</p>
                                 </div>
                                 <div class="site-footer__social">
-                                    <a href="#"><i class="fab fa-facebook"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                    <a href="https://www.facebook.com/rubypainterstrichy" target="_blank"><i class="fab fa-facebook"></i></a>
+                                    <a href="https://www.instagram.com/ruby_painters/" target="_blank"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
