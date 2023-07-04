@@ -44,7 +44,7 @@
                         <!--Services One Single-->
                         <div class="services-one__single wow fadeInUp" data-wow-delay="200ms">
                             <div class="services-one__img">
-                                <img src="assets/images/services/new-services/wood-works.jpg" alt="">
+                                <img src="assets/images/services/new-services/wood-works.webp" alt="">
                                 <div class="services-one__icon">
                                     <span class="icon-wallpaper-4"></span>
                                 </div>
@@ -59,7 +59,7 @@
                         <!--Services One Single-->
                         <div class="services-one__single wow fadeInUp" data-wow-delay="300ms">
                             <div class="services-one__img">
-                                <img src="assets/images/services/new-services/wooden-polish-2.jpg" alt="">
+                                <img src="assets/images/services/new-services/wooden-polish.jpg" alt="">
                                 <div class="services-one__icon">
                                     <span class="icon-paint"></span>
                                 </div>
@@ -90,7 +90,7 @@
                         <!--Services One Single-->
                         <div class="services-one__single wow fadeInUp" data-wow-delay="500ms">
                             <div class="services-one__img">
-                                <img src="assets/images/services/services-1-5.jpg" alt="">
+                                <img src="assets/images/services/services-1-5.webp" alt="">
                                 <div class="services-one__icon">
                                     <span class="icon-wallpaper-7"></span>
                                 </div>

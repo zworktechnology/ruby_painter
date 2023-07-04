@@ -29,17 +29,18 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="main-slider__content">
-                                <div class="main-slider__icon">
+                                <!-- <div class="main-slider__icon">
                                     <img src="assets/images/shapes/main-slider-icon.png" alt="">
                                 </div>
                                 <div class="main-slider__sub-title-box">
                                     <p class="main-slider__sub-title">welcome to Ruby Painters</p>
                                     <div class="main-slider__border-left"></div>
                                     <div class="main-slider__border-right"></div>
-                                </div>
-                                <h2 class="main-slider__title">Unique Painting <span>&</span> <br /> Wallpapers for Home </h2>
+                                </div> -->
+                                <h2 class="main-slider__title">Unique Painting <span>&</span> <br /> Wallpapers for Home
+                                </h2>
                                 <div class="main-slider__btn-box">
-                                    <a href="about.html" class="thm-btn main-slider__btn">Discover More</a>
+                                    <a href="about.php" class="thm-btn main-slider__btn">Discover More</a>
                                 </div>
                             </div>
                         </div>
@@ -53,17 +54,17 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="main-slider__content">
-                                <div class="main-slider__icon">
+                                <!-- <div class="main-slider__icon">
                                     <img src="assets/images/shapes/main-slider-icon.png" alt="">
                                 </div>
                                 <div class="main-slider__sub-title-box">
                                     <p class="main-slider__sub-title">welcome to Ruby Painters</p>
                                     <div class="main-slider__border-left"></div>
                                     <div class="main-slider__border-right"></div>
-                                </div>
+                                </div> -->
                                 <h2 class="main-slider__title">Not Just a Painting,<br />its a Life Style</h2>
                                 <div class="main-slider__btn-box">
-                                    <a href="about.html" class="thm-btn main-slider__btn">Discover More</a>
+                                    <a href="contact.php" class="thm-btn main-slider__btn">Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -77,17 +78,18 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="main-slider__content">
-                                <div class="main-slider__icon">
+                                <!-- <div class="main-slider__icon">
                                     <img src="assets/images/shapes/main-slider-icon.png" alt="">
                                 </div>
                                 <div class="main-slider__sub-title-box">
                                     <p class="main-slider__sub-title">welcome to Ruby Painters</p>
                                     <div class="main-slider__border-left"></div>
                                     <div class="main-slider__border-right"></div>
-                                </div>
+                                </div> -->
                                 <h2 class="main-slider__title">Special Paintings for<br /> a Spacial Life Style</h2>
                                 <div class="main-slider__btn-box">
-                                    <a href="about.html" class="thm-btn main-slider__btn">Discover More</a>
+                                    <a href="https://api.whatsapp.com/send/?phone=%2B919842869957" target="_blank"
+                                        class="thm-btn main-slider__btn">Chat Now</a>
                                 </div>
                             </div>
                         </div>
@@ -121,11 +123,11 @@
             <div class="col-xl-6">
                 <div class="about-one__left">
                     <div class="section-title text-left">
-                        <span class="section-title__tagline">About company</span>
+                        <span class="section-title__tagline">About Ruby Painters</span>
                         <h2 class="section-title__title">Transform Your Walls with Artistry and Elegance</h2>
                         <div class="section-title__line"></div>
                     </div>
-                    <p class="about-one__text-1">we have 25+ years Experience in Changing Peoples Life style,</p>
+                    <p class="about-one__text-1">We have 25+ years Experience in Changing Peoples Life style,</p>
                     <ul class="list-unstyled about-one__points">
                         <li>
                             <div class="about-one__points-content-box">
@@ -148,19 +150,24 @@
                             </div>
                         </li>
                     </ul>
-                    <p class="about-one__text-2">Discover the beauty of painting with our curated collection of exquisite artworks. We specialize in unique and high-quality pieces that elevate your space. Experience personalized service as we create custom paintings that reflect your individual style. Transform your home into a captivating masterpiece with our passion for creativity.</p>
+                    <p class="about-one__text-2">Discover the beauty of painting with our curated collection of
+                        exquisite artworks. We specialize in unique and high-quality pieces that elevate your space.
+                        Experience personalized service as we create custom paintings that reflect your individual
+                        style. Transform your home into a captivating masterpiece with our passion for creativity.</p>
                     <div class="about-one__contact-us">
                         <div class="about-one__btn-box">
                             <a href="about.html" class="thm-btn about-one__btn">Read More About</a>
                         </div>
                         <div class="about-one__call">
-                            <div class="about-one__call-icon">
-                                <span class="icon-phone-call"></span>
-                            </div>
-                            <div class="about-one__call-text">
-                                <p>Call anytime</p>
-                                <a href="tel:980009630">+ 91 9842869957</a>
-                            </div>
+                            <a href="tel:+919842869957">
+                                <div class="about-one__call-icon">
+                                    <span class="icon-phone-call"></span>
+                                </div>
+                                <div class="about-one__call-text">
+                                    <p>Call anytime</p>
+                                    <a href="tel:+919842869957">+ 91 9842869957</a>
+                                </div>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -172,7 +179,7 @@
                             <img src="assets/images/resources/about-one-img-1.jpg" alt="">
                         </div>
                         <div class="about-one__small-img">
-                            <img src="assets/images/resources/about-one-small-img.jpg" alt="">
+                            <img src="assets/images/resources/about-one-small-img.jpeg" alt="">
                         </div>
                         <div class="about-one__project">
                             <div class="about-one__project-icon">
@@ -212,7 +219,8 @@
                         <span class="icon-mind"></span>
                     </div>
                     <h3 class="feature-one__title"><a href="about.html">Smart Work</a></h3>
-                    <p class="feature-one__text">Unleashing Creativity, Exceeding Expectations, and Elevating Homes with Distinctive Artistry.</p>
+                    <p class="feature-one__text">Unleashing Creativity, Exceeding Expectations, and Elevating Homes with
+                        Distinctive Artistry.</p>
                     <div class="feature-one__arrow">
                         <a href="about.html"><i class="fa fa-arrow-right"></i></a>
                     </div>
@@ -231,7 +239,8 @@
                         <span class="icon-wallpaper-2"></span>
                     </div>
                     <h3 class="feature-one__title"><a href="about.html">Unique Designs</a></h3>
-                    <p class="feature-one__text">Transforming Spaces with Unparalleled Artistic Vision, Tailored to Your Personal Style.</p>
+                    <p class="feature-one__text">Transforming Spaces with Unparalleled Artistic Vision, Tailored to Your
+                        Personal Style.</p>
                     <div class="feature-one__arrow">
                         <a href="about.html"><i class="fa fa-arrow-right"></i></a>
                     </div>
@@ -250,7 +259,8 @@
                         <span class="icon-programmer"></span>
                     </div>
                     <h3 class="feature-one__title"><a href="team.html">Skilled Team</a></h3>
-                    <p class="feature-one__text">Masterful Artists, Collaborating to Create Breathtaking Works of Art for Your Home.</p>
+                    <p class="feature-one__text">Masterful Artists, Collaborating to Create Breathtaking Works of Art
+                        for Your Home.</p>
                     <div class="feature-one__arrow">
                         <a href="team.html"><i class="fa fa-arrow-right"></i></a>
                     </div>
@@ -269,7 +279,8 @@
                         <span class="icon-best-price"></span>
                     </div>
                     <h3 class="feature-one__title"><a href="contact.html">Best Pricing</a></h3>
-                    <p class="feature-one__text">Unbeatable Value, Bringing Affordable Beauty and Elegance to Every Home. <span class="opacity-0">elegance to every home</span></p>
+                    <p class="feature-one__text">Unbeatable Value, Bringing Affordable Beauty and Elegance to Every
+                        Home. <span class="opacity-0">elegance to every home</span></p>
                     <div class="feature-one__arrow">
                         <a href="contact.html"><i class="fa fa-arrow-right"></i></a>
                     </div>
@@ -283,7 +294,9 @@
 <!--Services One Start-->
 <section class="services-one">
     <div class="services-one-bg-box">
-        <div class="services-one-bg jarallax" data-jarallax="" data-speed="0.2" data-imgposition="50% 0%" style="background-image: url(https://images.unsplash.com/photo-1515405295579-ba7b45403062?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80);"></div>
+        <div class="services-one-bg jarallax" data-jarallax="" data-speed="0.2" data-imgposition="50% 0%"
+            style="background-image: url(https://static.wixstatic.com/media/f42567_9416c7553886420fb51bf272a629dc16~mv2_d_1925_1287_s_2.jpg/v1/fill/w_560,h_390,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f42567_9416c7553886420fb51bf272a629dc16~mv2_d_1925_1287_s_2.jpg);">
+        </div>
     </div>
     <div class="container">
         <div class="section-title text-center">
@@ -312,14 +325,15 @@
                 <!--Services One Single-->
                 <div class="services-one__single wow fadeInUp" data-wow-delay="200ms">
                     <div class="services-one__img">
-                        <img src="assets/images/services/new-services/wooden-polish-2.jpg" alt="">
+                        <img src="assets/images/services/new-services/wooden-polish.jpg" alt="">
                         <div class="services-one__icon">
                             <span class="icon-wallpaper-4"></span>
                         </div>
                     </div>
                     <div class="services-one__content">
                         <h3 class="services-one__title"><a href="wall-sheets.html">Wooden Polish</a></h3>
-                        <p class="services-one__text">Restore the Beauty of Your Woodwork with Professional Polishing Services
+                        <p class="services-one__text">Restore the Beauty of Your Woodwork with Professional Polishing
+                            Services
                             Enhance the Elegance of Your Space with Expert Wooden Polishing</p>
                     </div>
                 </div>
@@ -335,7 +349,8 @@
                     </div>
                     <div class="services-one__content">
                         <h3 class="services-one__title"><a href="wall-painting.html">Grill Works</a></h3>
-                        <p class="services-one__text">Renew the Appeal of Your Grills with Professional Restoration Services
+                        <p class="services-one__text">Renew the Appeal of Your Grills with Professional Restoration
+                            Services
                             Transform Your Space with Expert Grill Work for Added Style and Elegance</p>
                     </div>
                 </div>
@@ -345,8 +360,8 @@
 </section>
 <!--Services One End-->
 
-<!--Project One Start-->
-<section class="project-one">
+<!-- Project One Start-->
+<!-- <section class="project-one">
     <div class="container">
         <div class="section-title text-center">
             <span class="section-title__tagline">Successful Project</span>
@@ -374,14 +389,17 @@
                                             </div>
                                             <div class="project-one__content">
                                                 <h4 class="project-one__title">Interior Design</h4>
-                                                <p class="project-one__text">Refresh Your Space with Professional Interior Painting Services Turn Your Walls into a Beautiful Canvas with Expert Paintwork</p>
-                                                <a href="project-details.html" class="thm-btn project-one__btn">Read More About</a>
+                                                <p class="project-one__text">Refresh Your Space with Professional
+                                                    Interior Painting Services Turn Your Walls into a Beautiful Canvas
+                                                    with Expert Paintwork</p>
+                                                <a href="project-details.html" class="thm-btn project-one__btn">Read
+                                                    More About</a>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div><!-- /.swiper-slide -->
+                        </div> 
                         <div class="swiper-slide">
                             <div class="row">
                                 <div class="col-xl-6 col-lg-6">
@@ -399,14 +417,17 @@
                                             </div>
                                             <div class="project-one__content">
                                                 <h4 class="project-one__title">Wooden Polish</h4>
-                                                <p class="project-one__text">Restore the Beauty of Your Woodwork with Professional Polishing Services Enhance the Elegance of Your Space with Expert Wooden Polishing</p>
-                                                <a href="project-details.html" class="thm-btn project-one__btn">Read More About</a>
+                                                <p class="project-one__text">Restore the Beauty of Your Woodwork with
+                                                    Professional Polishing Services Enhance the Elegance of Your Space
+                                                    with Expert Wooden Polishing</p>
+                                                <a href="project-details.html" class="thm-btn project-one__btn">Read
+                                                    More About</a>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div><!-- /.swiper-slide -->
+                        </div>
                         <div class="swiper-slide">
                             <div class="row">
                                 <div class="col-xl-6 col-lg-6">
@@ -424,20 +445,24 @@
                                             </div>
                                             <div class="project-one__content">
                                                 <h4 class="project-one__title">Grill Works</h4>
-                                                <p class="project-one__text">Renew the Appeal of Your Grills with Professional Restoration Services Transform Your Space with Expert Grill Work for Added Style and Elegance</p>
-                                                <a href="project-details.html" class="thm-btn project-one__btn">Read More About</a>
+                                                <p class="project-one__text">Renew the Appeal of Your Grills with
+                                                    Professional Restoration Services Transform Your Space with Expert
+                                                    Grill Work for Added Style and Elegance</p>
+                                                <a href="project-details.html" class="thm-btn project-one__btn">Read
+                                                    More About</a>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div><!-- /.swiper-slide -->
+                        </div>
                         <div class="swiper-slide">
                             <div class="row">
                                 <div class="col-xl-6 col-lg-6">
                                     <div class="project-one__left">
                                         <div class="project-one__img">
-                                            <img src="assets/images/services/new-services/bubble-texture-painting.jpg" alt="">
+                                            <img src="assets/images/services/new-services/bubble-texture-painting.jpg"
+                                                alt="">
                                         </div>
                                     </div>
                                 </div>
@@ -449,15 +474,18 @@
                                             </div>
                                             <div class="project-one__content">
                                                 <h4 class="project-one__title">Bubble Texture Painting</h4>
-                                                <p class="project-one__text">Create Visual Intrigue with Bubble Texture Painting Services
-                                                    Add Unique Dimension to Your Space with Expert Bubble Texture Painting</p>
-                                                <a href="project-details.html" class="thm-btn project-one__btn">Read More About</a>
+                                                <p class="project-one__text">Create Visual Intrigue with Bubble Texture
+                                                    Painting Services
+                                                    Add Unique Dimension to Your Space with Expert Bubble Texture
+                                                    Painting</p>
+                                                <a href="project-details.html" class="thm-btn project-one__btn">Read
+                                                    More About</a>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div><!-- /.swiper-slide -->
+                        </div>
                     </div>
                 </div>
             </div>
@@ -469,22 +497,22 @@
                             <div class="project-one__img-holder">
                                 <img src="assets/images/services/new-services/interior-design.jpg" alt="">
                             </div>
-                        </div><!-- /.swiper-slide -->
+                        </div>
                         <div class="swiper-slide">
                             <div class="project-one__img-holder">
                                 <img src="assets/images/services/new-services/wooden-polish-2.jpg" alt="">
                             </div>
-                        </div><!-- /.swiper-slide -->
+                        </div>
                         <div class="swiper-slide">
                             <div class="project-one__img-holder">
                                 <img src="assets/images/services/new-services/grill-works.jpg" alt="">
                             </div>
-                        </div><!-- /.swiper-slide -->
+                        </div>
                         <div class="swiper-slide">
                             <div class="project-one__img-holder">
                                 <img src="assets/images/services/new-services/bubble-texture-painting.jpg" alt="">
                             </div>
-                        </div><!-- /.swiper-slide -->
+                        </div>
                     </div>
                 </div>
                 <div class="project-one__nav">
@@ -497,7 +525,7 @@
                 </div>
             </div>
         </div>
-        <!-- <div class="row">
+        <div class="row">
                     <div class="col-xl-12">
                         <div class="project-one__more-project">
                             <div class="project-one__more-project-content">
@@ -507,15 +535,17 @@
                             </div>
                         </div>
                     </div>
-                </div> -->
+                </div>
     </div>
-</section>
-<!--Project One End-->
+</section> -->
+<!--Project One End -->
 
 <!--Testimonial One Start-->
 <section class="testimonial-one">
     <div class="testimonial-one-bg-box">
-        <div class="testimonial-one-bg jarallax" data-jarallax="" data-speed="0.2" data-imgposition="50% 0%" style="background-image: url(https://banyanbridges.com/wp-content/uploads/2018/02/how-to-paint-a-Bold-striped-accent-wall-Banyan-Bridges-02-1080x675.jpg);"></div>
+        <div class="testimonial-one-bg jarallax" data-jarallax="" data-speed="0.2" data-imgposition="50% 0%"
+            style="background-image: url(https://banyanbridges.com/wp-content/uploads/2018/02/how-to-paint-a-Bold-striped-accent-wall-Banyan-Bridges-02-1080x675.jpg);">
+        </div>
     </div>
     <div class="container">
         <div class="row">
@@ -526,7 +556,8 @@
                         <h2 class="section-title__title">What Our Customers Say?</h2>
                         <div class="section-title__line"></div>
                     </div>
-                    <p class="testimonial-one__text">Explore the valuable feedback from our satisfied clients and discover what they have to say about our company</p>
+                    <p class="testimonial-one__text">Explore the valuable feedback from our satisfied clients and
+                        discover what they have to say about our company</p>
                 </div>
             </div>
             <div class="col-xl-9">
@@ -560,7 +591,10 @@
                             <div class="testimonial-one__quote">
                                 <span class="icon-quotation"></span>
                             </div>
-                            <p class="testimonial-one__text-2">I absolutely love the custom painting I received from Ruby Painting. They captured my vision perfectly and transformed my space into a true work of art. Their attention to detail and exceptional service exceeded my expectations.</p>
+                            <p class="testimonial-one__text-2">I absolutely love the custom painting I received from
+                                Ruby Painting. They captured my vision perfectly and transformed my space into a true
+                                work of art. Their attention to detail and exceptional service exceeded my expectations.
+                            </p>
                             <div class="testimonial-one__client-info">
                                 <!-- <div class="testimonial-one__img">
                                             <img src="assets/images/testimonial/testimonial-1-1.jpg" alt="">
@@ -576,7 +610,10 @@
                             <div class="testimonial-one__quote">
                                 <span class="icon-quotation"></span>
                             </div>
-                            <p class="testimonial-one__text-2">The room wallpapers I purchased from Ruby Painting were exceptional in quality and design. They completely transformed my room, adding a touch of elegance and personality. I highly recommend their products to anyone looking for a stunning wall makeover</p>
+                            <p class="testimonial-one__text-2">The room wallpapers I purchased from Ruby Painting were
+                                exceptional in quality and design. They completely transformed my room, adding a touch
+                                of elegance and personality. I highly recommend their products to anyone looking for a
+                                stunning wall makeover</p>
                             <div class="testimonial-one__client-info">
                                 <!-- <div class="testimonial-one__img">
                                             <img src="assets/images/testimonial/testimonial-1-2.jpg" alt="">
@@ -592,7 +629,10 @@
                             <div class="testimonial-one__quote">
                                 <span class="icon-quotation"></span>
                             </div>
-                            <p class="testimonial-one__text-2">Wall Sheets from Ruby Painting have been a game-changer for my interior design projects. The variety of patterns and textures available allowed me to create unique and eye-catching feature walls. The ease of installation and the durability of the sheets were impressive. A definite must-have for any designer.</p>
+                            <p class="testimonial-one__text-2">Wall Sheets from Ruby Painting have been a game-changer
+                                for my interior design projects. The variety of patterns and textures available allowed
+                                me to create unique and eye-catching feature walls. The ease of installation and the
+                                durability of the sheets were impressive. A definite must-have for any designer.</p>
                             <div class="testimonial-one__client-info">
                                 <!-- <div class="testimonial-one__img">
                                             <img src="assets/images/testimonial/testimonial-1-3.jpg" alt="">
@@ -608,7 +648,10 @@
                             <div class="testimonial-one__quote">
                                 <span class="icon-quotation"></span>
                             </div>
-                            <p class="testimonial-one__text-2">The wall paintings I commissioned from Ruby Painting added a breathtaking focal point to my living room. The talented artists captured the essence of my vision and brought it to life with their exceptional skills. The end result was beyond my expectations, and I couldn't be happier with the outcome.</p>
+                            <p class="testimonial-one__text-2">The wall paintings I commissioned from Ruby Painting
+                                added a breathtaking focal point to my living room. The talented artists captured the
+                                essence of my vision and brought it to life with their exceptional skills. The end
+                                result was beyond my expectations, and I couldn't be happier with the outcome.</p>
                             <div class="testimonial-one__client-info">
                                 <!-- <div class="testimonial-one__img">
                                             <img src="assets/images/testimonial/testimonial-1-1.jpg" alt="">
@@ -624,7 +667,10 @@
                             <div class="testimonial-one__quote">
                                 <span class="icon-quotation"></span>
                             </div>
-                            <p class="testimonial-one__text-2">Ruby Painting offers a seamless and enjoyable experience. From their friendly customer service to the competitive pricing, they truly deliver on their promise of quality and satisfaction. I am thrilled with my purchase and will definitely be a returning customer for all my future wall decor needs.</p>
+                            <p class="testimonial-one__text-2">Ruby Painting offers a seamless and enjoyable experience.
+                                From their friendly customer service to the competitive pricing, they truly deliver on
+                                their promise of quality and satisfaction. I am thrilled with my purchase and will
+                                definitely be a returning customer for all my future wall decor needs.</p>
                             <div class="testimonial-one__client-info">
                                 <!-- <div class="testimonial-one__img">
                                             <img src="assets/images/testimonial/testimonial-1-2.jpg" alt="">

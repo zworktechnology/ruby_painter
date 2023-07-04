@@ -8,7 +8,7 @@
                         <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="100ms">
                             <div class="footer-widget__column footer-widget__about">
                                 <div class="footer-widget__logo">
-                                    <a href="index.html"><img src="assets/images/resources/footer-logo.png" alt=""></a>
+                                    <a href="index.html"><img src="assets/images/logo/ruby_png.png" style="height: 100px;" alt=""></a>
                                 </div>
                                 <div class="footer-widget__about-text-box">
                                     <p class="footer-widget__about-text">We work with a passion of taking challenges and
@@ -24,10 +24,10 @@
                             <div class="footer-widget__column footer-widget__explore clearfix">
                                 <h3 class="footer-widget__title">Explore</h3>
                                 <ul class="footer-widget__explore-list list-unstyled clearfix">
-                                    <li><a href="about.html">About</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
-                                    <li><a href="team.html">Our Projects</a></li>
-                                    <li><a href="services.html">Our Services</a></li>
+                                    <li><a href="about.php">About</a></li>
+                                    <li><a href="projects.php">Projects</a></li>
+                                    <li><a href="services.php">Our Services</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -86,7 +86,7 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="site-footer__bottom-inner">
-                                <p class="site-footer__bottom-text">© Copyright <script></script> by <a href="zworktechnology.com" target="_blank">Zworktechnology</a>
+                                <p class="site-footer__bottom-text">© Copyright <script></script> by <a href="https://zworktechnology.com/" target="_blank">Zwork Technology</a>
                                 </p>
                             </div>
                         </div>

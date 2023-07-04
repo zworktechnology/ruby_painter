@@ -4,13 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Home One || Ambed || Ambed HTML 5 Template </title>
+    <title> Ruby Painters | The Construction Painting Team </title>
     <!-- favicons Icons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
-    <link rel="manifest" href="assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Ambed HTML 5 Template ">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/logo/ruby_png.png">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -69,8 +65,8 @@
                     <div class="main-header__top-inner clearfix">
                         <div class="main-header__logo">
                             <a href="index.php">
-                                <img src="assets/images/logo/logo.jpeg" style="height: 85px; border-radius: 5px;" alt="" class="dark-logo">
-                                <img src="assets/images/logo/logo.jpeg" style="height: 85px; border-radius: 5px;" alt="" class="light-logo">
+                                <img src="assets/images/logo/ruby_png.png" style="height: 100px;" alt="" class="dark-logo">
+                                <img src="assets/images/logo/ruby_png.png" style="height: 100px;" alt="" class="light-logo">
                             </a>
                         </div>
                         <div class="main-header__top-right">
@@ -125,7 +121,7 @@
                                     <ul class="main-menu__list">
                                         <li><a href="index.php">Home</a></li>
                                         <li><a href="about.php">About Us </a></li>
-                                        <!-- <li><a href="projects.php">Projects </a></li> -->
+                                        <li><a href="projects.php">Projects </a></li>
                                         <li><a href="services.php">Services</a></li>
                                         <li><a href="contact.php">Contact Us</a>
                                         </li>
@@ -134,11 +130,8 @@
                             </div>
                             <div class="main-menu__right">
                                 <div class="main-menu__search-btn-box">
-                                    <div class="main-menu__search-box">
-                                        <a href="#" class="main-menu__search search-toggler icon-magnifying-glass"></a>
-                                    </div>
                                     <div class="main-menu__btn-box">
-                                        <a href="contact.php" class="thm-btn main-menu__btn">Book Appointment</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=%2B919842869957" target="_blank" class="thm-btn main-menu__btn">Chat With Us</a>
                                     </div>
                                 </div>
                             </div>

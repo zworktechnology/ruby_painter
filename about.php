@@ -46,7 +46,6 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <!-- <p class="about-two__points-text">Lorem ipsum dolor sit ame ed <br> consectetur nod.</p> -->
                                 </div>
                                 <div class="about-two__points-right">
                                     <ul class="list-unstyled about-two__points">
@@ -59,7 +58,6 @@
                                             </div>
                                         </li>
                                     </ul>
-                                    <!-- <p class="about-two__points-text">Lorem ipsum dolor sit ame ed <br> consectetur nod.</p> -->
                                 </div>
                             </div>
                         </div>
@@ -84,7 +82,7 @@
                                     <img src="assets/images/resources/about-one-img-1.jpg" alt="">
                                 </div>
                                 <div class="about-one__small-img">
-                                    <img src="assets/images/resources/about-one-small-img.jpg" alt="">
+                                    <img src="assets/images/resources/about-one-small-img.jpeg" alt="">
                                 </div>
                                 <div class="about-one__project">
                                     <div class="about-one__project-icon">
