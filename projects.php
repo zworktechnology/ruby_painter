@@ -30,14 +30,13 @@
                         <div class="project-three__single">
                             <div class="project-three__img-box">
                                 <div class="project-three__img">
-                                    <img src="assets/images/project/project-3-1.jpg" alt="">
+                                    <img src="assets/images/project/kesavan-projects/apartments.jpg" alt="">
                                     <div class="project-three__arrow">
                                         <a href="project-details.html"><i class="fa fa-angle-right"></i></a>
                                     </div>
                                     <div class="project-three__content">
-                                        <h3 class="project-three__title"><a href="project-details.html">Exterior
-                                                Design</a></h3>
-                                        <p class="project-three__sub-title">Room Wallsheet</p>
+                                        <h3 class="project-three__title"><a href="project-details.html">Apartments</a></h3>
+                                        <p class="project-three__sub-title">Trichy</p>
                                     </div>
                                 </div>
                             </div>
@@ -48,14 +47,13 @@
                         <div class="project-three__single">
                             <div class="project-three__img-box">
                                 <div class="project-three__img">
-                                    <img src="assets/images/project/project-3-2.jpg" alt="">
+                                    <img src="assets/images/project/kesavan-projects/barath-plaza.jpg" alt="">
                                     <div class="project-three__arrow">
                                         <a href="project-details.html"><i class="fa fa-angle-right"></i></a>
                                     </div>
                                     <div class="project-three__content">
-                                        <h3 class="project-three__title"><a href="project-details.html">Room
-                                                Wallsheet</a></h3>
-                                        <p class="project-three__sub-title">Wall Protection</p>
+                                        <h3 class="project-three__title"><a href="project-details.html">Bharath Plaza</a></h3>
+                                        <p class="project-three__sub-title">trichy</p>
                                     </div>
                                 </div>
                             </div>
@@ -66,14 +64,13 @@
                         <div class="project-three__single">
                             <div class="project-three__img-box">
                                 <div class="project-three__img">
-                                    <img src="assets/images/project/project-3-3.jpg" alt="">
+                                    <img src="assets/images/project/kesavan-projects/idhu-namma-coffee.jpg" alt="">
                                     <div class="project-three__arrow">
                                         <a href="project-details.html"><i class="fa fa-angle-right"></i></a>
                                     </div>
                                     <div class="project-three__content">
-                                        <h3 class="project-three__title"><a href="project-details.html">Wall
-                                                Paintings</a></h3>
-                                        <p class="project-three__sub-title">Room Wallsheet</p>
+                                        <h3 class="project-three__title"><a href="project-details.html">Idhu Namma Coffee</a></h3>
+                                        <p class="project-three__sub-title">Trichy</p>
                                     </div>
                                 </div>
                             </div>
@@ -84,14 +81,13 @@
                         <div class="project-three__single">
                             <div class="project-three__img-box">
                                 <div class="project-three__img">
-                                    <img src="assets/images/project/project-3-4.jpg" alt="">
+                                    <img src="assets/images/project/kesavan-projects/indira-apartments.jpg" alt="">
                                     <div class="project-three__arrow">
                                         <a href="project-details.html"><i class="fa fa-angle-right"></i></a>
                                     </div>
                                     <div class="project-three__content">
-                                        <h3 class="project-three__title"><a href="project-details.html">Room
-                                                Interior</a></h3>
-                                        <p class="project-three__sub-title">Room Wallsheet</p>
+                                        <h3 class="project-three__title"><a href="project-details.html">Indra Aparments</a></h3>
+                                        <p class="project-three__sub-title">Trichy</p>
                                     </div>
                                 </div>
                             </div>
@@ -102,14 +98,13 @@
                         <div class="project-three__single">
                             <div class="project-three__img-box">
                                 <div class="project-three__img">
-                                    <img src="assets/images/project/project-3-5.jpg" alt="">
+                                    <img src="assets/images/project/kesavan-projects/mam-flats.jpg" alt="">
                                     <div class="project-three__arrow">
                                         <a href="project-details.html"><i class="fa fa-angle-right"></i></a>
                                     </div>
                                     <div class="project-three__content">
-                                        <h3 class="project-three__title"><a href="project-details.html">Room
-                                                Wallpapers</a></h3>
-                                        <p class="project-three__sub-title">Room Wallsheet</p>
+                                        <h3 class="project-three__title"><a href="project-details.html">M.A.M. Flats</a></h3>
+                                        <p class="project-three__sub-title">Trichy</p>
                                     </div>
                                 </div>
                             </div>
@@ -120,14 +115,47 @@
                         <div class="project-three__single">
                             <div class="project-three__img-box">
                                 <div class="project-three__img">
-                                    <img src="assets/images/project/project-3-6.jpg" alt="">
+                                    <img src="assets/images/project/kesavan-projects/parson-gardens.jpg" alt="">
                                     <div class="project-three__arrow">
                                         <a href="project-details.html"><i class="fa fa-angle-right"></i></a>
                                     </div>
                                     <div class="project-three__content">
-                                        <h3 class="project-three__title"><a href="project-details.html">Unique
-                                                Designs</a></h3>
-                                        <p class="project-three__sub-title">Room Wallsheet</p>
+                                        <h3 class="project-three__title"><a href="project-details.html">Parson Gardens</a></h3>
+                                        <p class="project-three__sub-title">Trichy</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <!--Project Three Single-->
+                        <div class="project-three__single">
+                            <div class="project-three__img-box">
+                                <div class="project-three__img">
+                                    <img src="assets/images/project/kesavan-projects/st.joseph.jpg" alt="">
+                                    <div class="project-three__arrow">
+                                        <a href="project-details.html"><i class="fa fa-angle-right"></i></a>
+                                    </div>
+                                    <div class="project-three__content">
+                                        <h3 class="project-three__title"><a href="project-details.html">St.Josephs School</a></h3>
+                                        <p class="project-three__sub-title">Trichy</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="600ms">
+                        <!--Project Three Single-->
+                        <div class="project-three__single">
+                            <div class="project-three__img-box">
+                                <div class="project-three__img">
+                                    <img src="assets/images/project/kesavan-projects/visranthi-gold.jpg" alt="">
+                                    <div class="project-three__arrow">
+                                        <a href="project-details.html"><i class="fa fa-angle-right"></i></a>
+                                    </div>
+                                    <div class="project-three__content">
+                                        <h3 class="project-three__title"><a href="project-details.html">Visranthi Gold</a></h3>
+                                        <p class="project-three__sub-title">Trichy</p>
                                     </div>
                                 </div>
                             </div>

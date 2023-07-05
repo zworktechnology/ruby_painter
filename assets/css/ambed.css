@@ -7527,6 +7527,8 @@ ul {
   transform: scale(1);
   -webkit-transition: all 500ms ease;
   transition: all 500ms ease;
+  height: 450px;
+  object-fit: cover;
 }
 
 .project-three__single:hover .project-three__img img {
