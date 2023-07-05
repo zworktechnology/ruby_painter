@@ -7,6 +7,7 @@
     <title> Ruby Painters | The Construction Painting Team </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/logo/ruby_png.png">
+    <link rel="shortcut icon" href="assets/images/logo/ruby_png.png" type="image/x-icon">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -88,7 +89,7 @@
                                             </div>
                                             <div class="content">
                                                 <p>Send email</p>
-                                                <h5><a href="mailto:ambed@company.com">info@rubypainters.com</a></h5>
+                                                <h5><a href="mailto:ambed@company.com">info@rubypainters.in</a></h5>
                                             </div>
                                         </li>
                                         <li>

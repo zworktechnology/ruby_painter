@@ -116,7 +116,7 @@
             <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <i class="fa fa-envelope"></i>
-                    <a href="mailto:info@rubypainters.com">info@rubypainters.com</a>
+                    <a href="mailto:info@rubypainters.com">info@rubypainters.in</a>
                 </li>
                 <li>
                     <i class="fa fa-phone-alt"></i>

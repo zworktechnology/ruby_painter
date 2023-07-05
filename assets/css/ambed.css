@@ -5011,7 +5011,8 @@ ul {
   height: 2px;
   width: 40px;
   content: "";
-  background-color: var(--ambed-base, #a47c68);
+  /* background-color: var(--ambed-base, #a47c68); */
+  background-color: var(--theme-color);
 }
 
 .footer-widget__title:after {
